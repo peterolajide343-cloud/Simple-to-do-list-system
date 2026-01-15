@@ -18,7 +18,7 @@ This system allows users to add tasks to a to-do list and view all tasks.
 # 2. System Design
 # Data Structure
 * tasks = []
-* 
+
 # Function Design
 * add_task() -	Adds a task
 * view_tasks() -	Displays tasks
